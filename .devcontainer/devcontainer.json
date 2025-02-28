@@ -8,13 +8,7 @@
 	"workspaceFolder": "/var/www/html",
 	"customizations": {
 		"vscode": {
-			"extensions": [
-				// "mikestead.dotenv",
-				// "amiralizadeh9480.laravel-extra-intellisense",
-				// "ryannaddy.laravel-artisan",
-				// "onecentlin.laravel5-snippets",
-				// "onecentlin.laravel-blade"
-			],
+			"extensions": ["calebporzio.better-phpunit","vscode-icons-team.vscode-icons","amiralizadeh9480.laravel-extra-intellisense","onecentlin.laravel-blade","onecentlin.laravel5-snippets","mikestead.dotenv","ryannaddy.laravel-artisan","ctf0.laravel-goto-controller","sleistner.vscode-fileutils","georgykurian.laravel-ide-helper"],
 			"settings": {}
 		}
 	},
